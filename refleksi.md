@@ -1,9 +1,9 @@
 # Refleksi Praktikum Pertemuan 1
 
-Setelah mempelajari materi tentang platform Web, Desktop, dan Mobile, saya memahami bahwa setiap platform memiliki karakteristik, kelebihan, dan kekurangan yang berbeda. Menurut saya, platform web merupakan platform yang paling menarik untuk dipelajari karena aplikasi dapat diakses melalui browser tanpa harus memasang program secara langsung pada setiap perangkat. Selain itu, pengembangan web memberikan kesempatan untuk mempelajari berbagai teknologi, seperti HTML, CSS, dan JavaScript.
+Setelah mempelajari materi tentang platform Web, Desktop, dan Mobile, saya memahami bahwa setiap platform memiliki karakteristik, kelebihan, dan kekurangan yang berbeda. Platform web menarik untuk dipelajari karena aplikasi dapat diakses melalui browser tanpa harus memasang program secara langsung pada setiap perangkat.
 
-Tantangan terbesar saat menyiapkan lingkungan pengembangan adalah memastikan seluruh tools dapat dipasang dan digunakan dengan benar. Git, Node.js, NPM, Visual Studio Code, dan Java JDK memiliki fungsi yang berbeda sehingga saya perlu memahami kegunaan setiap tools tersebut. Saya juga perlu memastikan bahwa perintah yang dijalankan melalui terminal dapat dikenali oleh sistem.
+Tantangan yang saya hadapi dalam praktikum ini adalah menyiapkan lingkungan pengembangan dan memastikan setiap tools dapat digunakan dengan benar. Git digunakan untuk mengelola perubahan kode, Node.js dan NPM mendukung pengembangan aplikasi berbasis JavaScript, Visual Studio Code digunakan untuk menulis kode, sedangkan Java JDK diperlukan untuk pengembangan aplikasi berbasis Java.
 
-Untuk mengatasi tantangan tersebut, saya akan mempelajari kembali langkah instalasi, memeriksa versi setiap tools melalui terminal, serta mencari solusi melalui dokumentasi resmi apabila terjadi kesalahan. Saya juga akan membiasakan diri menggunakan Git dan GitHub untuk menyimpan perubahan kode serta menjaga riwayat pekerjaan agar lebih teratur.
+Untuk mengatasi kendala tersebut, saya mempelajari kembali perintah-perintah dasar melalui terminal dan mengikuti tahapan konfigurasi secara berurutan. Saya juga belajar menggunakan GitHub untuk menyimpan hasil pekerjaan agar dapat diakses dan dikelola secara lebih teratur.
 
-Melalui praktikum ini, saya berharap dapat meningkatkan kemampuan dalam menggunakan tools pengembangan dan memahami dasar pemilihan platform sebelum membuat sebuah aplikasi.
+Melalui praktikum ini, saya memperoleh pemahaman mengenai fungsi dasar perangkat pengembangan serta pentingnya menyiapkan lingkungan kerja sebelum memulai pembuatan aplikasi. Pengetahuan tersebut diharapkan dapat membantu saya dalam mengembangkan aplikasi pada berbagai platform pada praktikum berikutnya.
